@@ -97,7 +97,10 @@ POST	/todos/post	    Create a new todo
   "is_completed": true
 }
 📸 UI Preview
-![image](https://github.com/user-attachments/assets/8e1f3e38-585a-4401-86ca-6b3c31c3bff8)
+![image](https://github.com/user-attachments/assets/f820e62b-4c52-4a9e-82ae-be161eadbcdb)
+![image](https://github.com/user-attachments/assets/13f98329-8c35-42eb-bff6-e2da496d6b37)
+
+
 
 
 📃 License
