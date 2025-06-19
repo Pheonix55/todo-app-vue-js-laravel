@@ -58,8 +58,8 @@ app/
    Install backend dependencies:
 
 ```composer install
-Install frontend de
-```pendencies:
+```
+Install frontend dependencies:
 
 
 npm install
