@@ -57,35 +57,38 @@ app/
    ```
    Install backend dependencies:
 
-```composer install
+```bash
+composer install
 ```
 Install frontend dependencies:
 
-
+```bash
 npm install
+```
 Environment setup:
 
-
+```bash
 cp .env.example .env
 php artisan key:generate
+```
 Run migrations (optional for todos table):
-
-
+```bash
 php artisan migrate
+```
 Start the development servers:
 
-
-
-```php artisan serve
+```bash
+php artisan serve
 npm run dev
 ```
 Visit:
+```bash
 http://localhost:8000
-
+```
 📬 API Endpoints
-Method	Endpoint	Description
-GET	/todos	Fetch all todos
-POST	/todos/post	Create a new todo
+Method	Endpoint	    Description
+GET	    /todos	        Fetch all todos
+POST	/todos/post	    Create a new todo
 
 ✅ Example Todo Payload
 {
