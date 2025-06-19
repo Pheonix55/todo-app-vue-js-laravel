@@ -18,7 +18,7 @@ A simple Todo List web application built with **Laravel (backend)** and **Vue.js
 
 ## ⚙️ Tech Stack
 
-- Laravel 10+
+- Laravel 12
 - Vue 3 (with Composition API)
 - Vite (modern frontend tooling)
 - Fetch API (for AJAX requests)
